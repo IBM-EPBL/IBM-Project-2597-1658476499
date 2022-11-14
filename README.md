@@ -1,5 +1,7 @@
+
+<p><img align="top" alt="GIF" src="https://github.com/IBM-EPBL/IBM-Project-2597-1658476499/blob/main/_-%20Made%20with%20Clipchamp.gif" width="900" height="450" /></p>-->
+
 # IBM-Project-2597-1658476499
-<p><img align="right" alt="GIF" src="https://github.com/IBM-EPBL/IBM-Project-2597-1658476499/blob/main/_-%20Made%20with%20Clipchamp.gif" width="500" height="450" /></p>-->
 SmartFarmer - IoT Enabled Smart Farming Application
 
 TEAM ID : PNT2022TMID22142
