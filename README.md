@@ -8,7 +8,6 @@ Team member : Ganesa
 Team member : Ghajendhiran
 
 PROJECT DESCRIPTION:
-
     SmartFarmer IOT Enabled Smart Farming Application on IoT can monitor soil moisture and climatic conditions to grow and yield a good crop.
     The farmer can also get the realtime weather forecasting data by using external platforms like Open Weather API.
     Farmer is provided a mobile app using which he can monitor the temperature,humidity and soil moisture parameters along with weather forecasting details.
