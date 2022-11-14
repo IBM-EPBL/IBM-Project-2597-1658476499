@@ -15,7 +15,7 @@ PROJECT DESCRIPTION:
     Even if the farmer is not present near his crop he can water his crop by controlling the motors using the mobile application from anywhere. 
     Here we are using the Online IoT simulator for getting the Temperature,Humidity and Soil Moisture values.
     
- <p><img align="right" alt="GIF" src="https://github.com/mitul3737/mitul3737/blob/main/github%20readme.gif" width="500" height="350" /></p>-->
+ <p><img align="right" alt="GIF" src="https://github.com/IBM-EPBL/IBM-Project-2597-1658476499/blob/main/_-%20Made%20with%20Clipchamp.gif" width="500" height="350" /></p>-->
 
 ###  SmartFarmer IOT Enabled Smart Farming Application
 #### TECHNOLOGY : INTERNET OF THINGS 
